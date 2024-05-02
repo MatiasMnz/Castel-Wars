@@ -1,0 +1,2 @@
+# Repositorio de GitHub para la revision de buenas practicas y control del codigo realizado para el funcionamiento del juego
+# Gameplay del juego completo https://www.youtube.com/watch?v=64imrc1fgb8&ab_channel=MatiasZigalini
